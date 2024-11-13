@@ -15,7 +15,7 @@ Create a profile page that displays a profile picture, name, and brief descripti
 
 <br>
 
-**Code Fragments (Easy) 🧩**
+**Code Snippets (Easy) 🧩**
 
 ```dart
 import 'package:flutter/material.dart';

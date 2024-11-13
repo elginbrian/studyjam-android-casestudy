@@ -14,8 +14,8 @@ Create an event detail page that features an event image at the top, followed by
 
 <br>
 
-**Code Fragments? 🧩**
+**Code Snippets? 🧩**
 <br>
-There are no code fragments, you can try it yourself 😂🫵🏻
+There are no code snippets, you can try it yourself 😂🫵🏻
 
 <img src="https://media1.giphy.com/media/XLMakNrymMwUg/giphy.gif?cid=6c09b952sl679r8jutuhmtib1ldixsic35mccvq30lve9us3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="300"/>

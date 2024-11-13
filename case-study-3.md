@@ -14,7 +14,7 @@ Create a home page for a news app that displays two main headlines at the top, f
 
 <br>
 
-**Code Fragments (Hard) 🧩**
+**Code Snippets (Hard) 🧩**
 
 ```dart
 import 'package:flutter/material.dart';

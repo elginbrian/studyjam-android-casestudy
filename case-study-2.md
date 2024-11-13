@@ -14,7 +14,7 @@ Develop a simple product page for an e-commerce app. Each product should have a 
 
 <br>
 
-**Code Fragments (Medium) 🧩**
+**Code Snippets (Medium) 🧩**
 
 ```dart
 import 'package:flutter/material.dart';
